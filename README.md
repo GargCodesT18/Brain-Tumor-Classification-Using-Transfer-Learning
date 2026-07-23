@@ -240,33 +240,6 @@ A lightweight architecture that scales network depth, width, and resolution usin
 
 ---
 
-# 📈 Training Curves
-
-> Replace these placeholders with your screenshots.
-
-```text
-assets/
-├── resnet_training_curves.png
-├── densenet_training_curves.png
-└── efficientnet_training_curves.png
-```
-
-```markdown
-<p align="center">
-<img src="assets/resnet_training_curves.png" width="700">
-</p>
-
-<p align="center">
-<img src="assets/densenet_training_curves.png" width="700">
-</p>
-
-<p align="center">
-<img src="assets/efficientnet_training_curves.png" width="700">
-</p>
-```
-
----
-
 # 📉 Confusion Matrices
 
 The confusion matrices below summarize the classification performance of each transfer learning model on the held-out test dataset.
