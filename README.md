@@ -290,7 +290,7 @@ The confusion matrices below summarize the classification performance of each tr
 ## 🔹 EfficientNet-B0
 
 <p align="center">
-<img src="assets/cm_Efficient Net.png" width="550">
+<img src="assets/cm_EfficientNet.png" width="550">
 </p>
 
 ---     
