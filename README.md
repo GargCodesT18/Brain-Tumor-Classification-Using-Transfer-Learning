@@ -282,7 +282,7 @@ The confusion matrices below summarize the classification performance of each tr
 ## 🔹 DenseNet121
 
 <p align="center">
-<img src="assets/cm_DenseNet 121.png" width="550">
+<img src="assets/cm_DenseNet_121.png" width="550">
 </p>
 
 ---
@@ -290,7 +290,7 @@ The confusion matrices below summarize the classification performance of each tr
 ## 🔹 EfficientNet-B0
 
 <p align="center">
-<img src="assets/cm_EfficientNet.png" width="550">
+<img src="assets/cm_EffecientNet.png" width="550">
 </p>
 
 ---     
@@ -303,7 +303,7 @@ To improve model interpretability, Grad-CAM was applied to correctly classified 
 
 | ResNet50 | DenseNet121 | EfficientNet-B0 |
 |-----------|-------------|-----------------|
-| <img src="assets/glioma_test_resnet.png" width="250"> | <img src="assets/glioma_test_densenet.png" width="250"> | <img src="assets/glioma_test_efficientnet.png" width="250"> |
+| <img src="assets/glioma_test_resnet.png" width="250"> | <img src="assets/glioma_test_densenet.png" width="250"> | <img src="assets/glioma_test_effecientnet.png" width="250"> |
 
 ---
 
@@ -311,7 +311,7 @@ To improve model interpretability, Grad-CAM was applied to correctly classified 
 
 | ResNet50 | DenseNet121 | EfficientNet-B0 |
 |-----------|-------------|-----------------|
-| <img src="assets/meningioma_resnet.png" width="250"> | <img src="assets/meningioma_densenet.png" width="250"> | <img src="assets/meningioma_efficientnet.png" width="250"> |
+| <img src="assets/meningioma_resnet.png" width="250"> | <img src="assets/meningioma_densenet.png" width="250"> | <img src="assets/meningioma_effecientnet.png" width="250"> |
 
 ---
 
@@ -319,7 +319,7 @@ To improve model interpretability, Grad-CAM was applied to correctly classified 
 
 | ResNet50 | DenseNet121 | EfficientNet-B0 |
 |-----------|-------------|-----------------|
-| <img src="assets/pituitary_resnet.png" width="250"> | <img src="assets/pituitary_densenet.png" width="250"> | <img src="assets/pituitary_efficientnet.png" width="250"> |
+| <img src="assets/pituitary_resnet.png" width="250"> | <img src="assets/pituitary_densenet.png" width="250"> | <img src="assets/pituitary_effecientnet.png" width="250"> |
 
 ---
 
@@ -327,7 +327,7 @@ To improve model interpretability, Grad-CAM was applied to correctly classified 
 
 | ResNet50 | DenseNet121 | EfficientNet-B0 |
 |-----------|-------------|-----------------|
-| <img src="assets/notumour_resnet.png" width="250"> | <img src="assets/notumour_densenet.png" width="250"> | <img src="assets/notumour_efficientnet.png" width="250"> |
+| <img src="assets/notumour_resnet.png" width="250"> | <img src="assets/notumour_densenet.png" width="250"> | <img src="assets/notumour_effecientnet.png" width="250"> |
 
 ---
 
